@@ -1,0 +1,35 @@
+- name: Meta for Business
+  kind: rss
+  url: https://www.facebook.com/business/news/rss
+  platform: meta
+  enabled: true
+- name: Google Ads Blog
+  kind: rss
+  url: https://ads.googleblog.com/feeds/posts/default
+  platform: google
+  enabled: true
+- name: Shopify Changelog
+  kind: rss
+  url: https://changelog.shopify.com/en/rss
+  platform: shopify
+  enabled: true
+- name: YouTube Creator Blog
+  kind: rss
+  url: https://blog.youtube/creator-and-artist-stories/rss/
+  platform: youtube
+  enabled: true
+- name: TikTok Business Newsroom
+  kind: rss
+  url: https://newsroom.tiktok.com/en-us/rss
+  platform: tiktok
+  enabled: true
+- name: Amazon Seller News
+  kind: rss
+  url: https://sellercentral.amazon.com/gp/headlines/rss.html
+  platform: amazon
+  enabled: true
+- name: Etsy News
+  kind: rss
+  url: https://www.etsy.com/news/rss
+  platform: etsy
+  enabled: true

@@ -1,0 +1,8 @@
+- name: Jon Loomer
+  platform: x
+  urls: ["https://x.com/jonloomer"]
+  enabled: true
+- name: Meta for Business (FB)
+  platform: blog
+  urls: ["https://www.facebook.com/business/news"]
+  enabled: true
